@@ -22,7 +22,7 @@ const app=express();
 app.use(express.json({ limit: '10mb' }));
 app.use(
   cors({
-    origin: 'https://cropifyapp.netlify.app/',
+    origin: 'https://cropifyapp.netlify.app',
     credentials: true,
   })
 );
