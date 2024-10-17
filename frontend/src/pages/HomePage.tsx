@@ -23,17 +23,17 @@ export default function Home() {
         </p>
         
 
-        <p className='text-lg'>
+        {/* <p className='text-lg'>
           Click below to learn more about the team behind the project !
-        </p>
+        </p> */}
 
         <div>
           
           
-        <div className="inline-block px-4 py-2 text-2xl rounded-full border border-ring hover:bg-crophover duration-300 ease-in-out">
+        {/* <div className="inline-block px-4 py-2 text-2xl rounded-full border border-ring hover:bg-crophover duration-300 ease-in-out">
           <HomeDialog/> 
 
-        </div>
+        </div> */}
         
         </div>
       </div>
